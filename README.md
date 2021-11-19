@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/RandyKdev?tab=repositories), [Gitlab](https://gitlab.gnome.org/RandyKdev) and [Codepen](https://codepen.io/randykdev)
 
-- 💬 Ask me about **C, HTML and CSS**
+- 💬 Ask me about **FLUTTER/DART, C, HTML and CSS**
 
 - 📫 How to reach me **rkwalar@gmail.com**
 
